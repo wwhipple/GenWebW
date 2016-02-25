@@ -1,0 +1,6 @@
+Revision history for Perl extension GenWebW.
+
+0.01  Thu Feb 25 16:32:16 2016
+	- original version; created by h2xs 1.23 with options
+		-XAn GenWebW
+
